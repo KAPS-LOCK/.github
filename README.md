@@ -1,6 +1,7 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/296970252?s=200&v=4" width="96" height="96" alt="KAPS LOCK™ logo" />
 
-# 🔒 KAPS LOCK
+  # KAPS LOCK™
 
 **Building fast, breaking things on purpose, and shipping anyway.**
 
